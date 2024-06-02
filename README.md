@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Munaf19
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning HTML, CSS, JAV SC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohd.munaf.khan1@gmail.com
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Dvops, Linux, Mysql
+- 📫 How to reach me mohd.munaf.khan@gmail.com
 
 <!---
 Munaf19/Munaf19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
